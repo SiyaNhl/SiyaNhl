@@ -47,5 +47,7 @@ Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Pandas • Num
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- LinkedIn: https://linkedin.com/in/Siyabonga Nhleko  
 - Email: siyacyano@gmail.com
+
+  
