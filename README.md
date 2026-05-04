@@ -1,40 +1,51 @@
 # Hi, I'm Siya 👋
 
 🎓 Computer Science Student @ Asia University  
-💡 Passionate about AI, Machine Learning & Data Science  
-🚀 Building real-world ML projects with Python  
+💡 Focused on Machine Learning, Computer Vision & Data Science  
+🚀 Building real-world ML systems using Python  
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🧠 Capsule Anomaly Detection
-Unsupervised anomaly detection using convolutional autoencoders on medical capsule images.  
+Detecting anomalies in medical capsule images using convolutional autoencoders.
+
+- 📊 Approach: Unsupervised Deep Learning (Autoencoders)
+- 🧪 Application: Medical image analysis
+- ⚡ Goal: Identify abnormal patterns without labeled data
+
 👉 https://github.com/SiyaNhl/capsule-anomaly-detection  
 
 ---
 
 ### 📊 Academic Performance Predictor
-End-to-end ML pipeline with model comparison, evaluation, and feature importance.  
+End-to-end machine learning pipeline for predicting student performance.
+
+- 🤖 Models: Logistic Regression, Random Forest, etc.
+- 📈 Includes: Evaluation, feature importance, model comparison
+- 🎯 Goal: Understand key factors affecting performance
+
 👉 https://github.com/SiyaNhl/academic-performance-predictor  
 
 ---
 
 ### 🤖 AI Study Chat
-AI-powered study assistant built with Python & Streamlit.  
+AI-powered study assistant built with Python & Streamlit.
+
+- 💬 Interactive learning assistant
+- ⚙️ Built using NLP concepts
+- 🎯 Helps students learn more efficiently
+
 👉 https://github.com/SiyaNhl/ai-study-chat  
 
 ---
 
 ## 🛠 Tech Stack
-- Python
-- TensorFlow / PyTorch
-- OpenCV
-- Scikit-learn
-- Pandas / NumPy
+Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Pandas • NumPy  
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
 - Email: siyacyano@gmail.com
