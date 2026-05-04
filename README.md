@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Siya 👋
 
-<!--
-**SiyaNhl/SiyaNhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Asia University  
+💡 Passionate about AI, Machine Learning & Data Science  
+🚀 Building real-world ML projects with Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+### 🧠 Capsule Anomaly Detection
+Unsupervised anomaly detection using convolutional autoencoders on medical capsule images.  
+👉 https://github.com/SiyaNhl/capsule-anomaly-detection  
+
+---
+
+### 📊 Academic Performance Predictor
+End-to-end ML pipeline with model comparison, evaluation, and feature importance.  
+👉 https://github.com/SiyaNhl/academic-performance-predictor  
+
+---
+
+### 🤖 AI Study Chat
+AI-powered study assistant built with Python & Streamlit.  
+👉 https://github.com/SiyaNhl/ai-study-chat  
+
+---
+
+## 🛠 Tech Stack
+- Python
+- TensorFlow / PyTorch
+- OpenCV
+- Scikit-learn
+- Pandas / NumPy
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: siyacyano@gmail.com
